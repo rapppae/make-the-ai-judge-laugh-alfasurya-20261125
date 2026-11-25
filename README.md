@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [Make the AI Judge Laugh](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225).
 
-> HR said dress for the job you want, so I showed up in pajamas — I want to work from bed.
+> HR said dress for the job you want, so I came to the office in pajamas. I want the job that lets me work from bed.
 
 ## Run
 
